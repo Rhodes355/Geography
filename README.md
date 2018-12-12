@@ -11,7 +11,7 @@ Email: Rhodes.355@osu.edu
 # Projects
 
 ### 3D Model of OSU
-[3D Model of OSU campus](https://youtube.com/embed/7xX9uoTjA-E)
+[3D Model of OSU campus using ArcScene](https://youtube.com/embed/7xX9uoTjA-E)
 
 ### Weather Pattern
 <img src = "https://i.imgur.com/h7pnNS5.gif" width="700" height="550" />
