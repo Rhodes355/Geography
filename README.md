@@ -26,3 +26,6 @@ Email: Rhodes.355@osu.edu
 
 ### Earthquake Heatmap
 [USGS Earthquake Heatmap](http://ohiostate.maps.arcgis.com/apps/View/index.html?appid=cdd8c0505b684d678ebe522de1b99a1a)
+
+### ArcGIS Pro 3D OSU campus scene
+[Flythrough view of 3D scene created with ArcGIS Pro](https://www.youtube.com/watch?v=zIPeGxLrMCQ)
