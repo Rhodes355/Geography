@@ -9,4 +9,5 @@ This portfolio contains a sample of my work with programs such as ArcGIS Pro and
 Email: Rhodes.355@osu.edu
 
 ### Projects
-https://youtube.com/embed/7xX9uoTjA-E
+
+[3D Model of OSU campus](https://youtube.com/embed/7xX9uoTjA-E)
