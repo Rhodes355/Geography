@@ -1,6 +1,6 @@
 # Cody Rhodes
 
-## Portfolio
+### Portfolio
 
 This portfolio contains a sample of my work with programs such as ArcGIS Pro and QGIS.
 
@@ -8,8 +8,10 @@ This portfolio contains a sample of my work with programs such as ArcGIS Pro and
 
 Email: Rhodes.355@osu.edu
 
-### Projects
+# Projects
 
+### 3D Model of OSU
 [3D Model of OSU campus](https://youtube.com/embed/7xX9uoTjA-E)
 
-![Alt Text](lab5.gif)
+### Weather Pattern
+<img src = "https://github.com/Rhodes355/Geography/blob/master/Lab5.gif" width="700" height="550" />
