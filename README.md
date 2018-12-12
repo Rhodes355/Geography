@@ -23,3 +23,6 @@ Email: Rhodes.355@osu.edu
 
 ### Story Map
 [Short story map tour of OSU campus](http://arcg.is/0SHjqu)
+
+### Earthquake Heatmap
+[USGS Earthquake Heatmap](http://ohiostate.maps.arcgis.com/apps/View/index.html?appid=cdd8c0505b684d678ebe522de1b99a1a)
