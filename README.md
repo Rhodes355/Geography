@@ -17,4 +17,4 @@ Email: Rhodes.355@osu.edu
 <img src = "https://github.com/Rhodes355/Geography/blob/master/Lab5.gif" width="700" height="550" />
 
 ### Crane Tracking Map
-<img src = "https://github.com/Rhodes355/Geography/blob/master/Tracking_animation1.gif" width="600" height="450" />
+<img src = "https://i.imgur.com/KzrMgPR.gif" width="600" height="450" />
