@@ -14,7 +14,7 @@ Email: Rhodes.355@osu.edu
 [3D Model of OSU campus](https://youtube.com/embed/7xX9uoTjA-E)
 
 ### Weather Pattern
-<img src = "https://github.com/Rhodes355/Geography/blob/master/Lab5.gif" width="700" height="550" />
+<img src = "https://i.imgur.com/h7pnNS5.gif" width="700" height="550" />
 
 ### Crane Tracking Map
 <img src = "https://i.imgur.com/KzrMgPR.gif" width="600" height="450" />
