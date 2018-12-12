@@ -1,11 +1,12 @@
 # Cody Rhodes
 
-## Ohio State University Student
+## Portfolio
+
+This portfolio contains a sample of my work with programs such as ArcGIS Pro and QGIS.
 
 ### Contact
 
 Email: Rhodes.355@osu.edu
 
-### Geography 5201 Portfolio
-
 ### Projects
+https://youtube.com/embed/7xX9uoTjA-E
