@@ -12,4 +12,4 @@ Email: Rhodes.355@osu.edu
 
 [3D Model of OSU campus](https://youtube.com/embed/7xX9uoTjA-E)
 
-![](lab5.gif)
+![Alt Text](lab5.gif)
