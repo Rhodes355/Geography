@@ -11,7 +11,7 @@ Email: Rhodes.355@osu.edu
 # Projects
 
 ### 3D Model of OSU
-[3D Model of OSU campus using ArcScene](https://youtube.com/embed/7xX9uoTjA-E)
+[3D Model of OSU campus using ArcScene](https://www.youtube.com/watch?v=7xX9uoTjA-E)
 
 ### 3D Population Visualization
 3D Model visualizing white population by county for California created using QGIS.
