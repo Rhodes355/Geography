@@ -16,6 +16,13 @@ Email: Rhodes.355@osu.edu
 ### Weather Pattern
 <img src = "https://i.imgur.com/h7pnNS5.gif" width="700" height="550" />
 
+### Population Visualization
+<img src = "https://i.imgur.com/s7fBEnw.png" width="700" height="550" />
+
+<img src = "https://i.imgur.com/UpXLeqC.png" width="700" height="550" />
+
+[Github link to view 3D model](https://github.com/Rhodes355/Geography/blob/master/Export.rar)
+
 ### Crane Tracking Map
 [Powerpoint presentation github link](https://github.com/Rhodes355/Geography/blob/master/Lab7_Rhodes355.pptx)
 
@@ -31,4 +38,4 @@ Email: Rhodes.355@osu.edu
 [Flythrough view of 3D scene created with ArcGIS Pro](https://www.youtube.com/watch?v=zIPeGxLrMCQ)
 
 ### Crime Data
-[W.I.P](http://arcg.is/0PXiPG)
+[3D visualization of crime data](http://arcg.is/0PXiPG)
