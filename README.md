@@ -10,6 +10,9 @@ Email: Rhodes.355@osu.edu
 
 # Projects
 
+### ArcGIS Pro Application using C#
+Below is an image from a basic application created using the SDK for ArcGIS Pro. This application was created as an excercise to learn the basics of developing add ins for ArcGIS Pro. The user can select any currently loaded feature from the drop down and the information about the feature layer will be displayed. The buttons zoom to the extent of the feature and toggle if the layer is visible.
+<img src = "https://i.imgur.com/gtsepT5.png" width="500" height="550" />
 ### 3D Model of OSU
 [3D Model of OSU campus using ArcScene](https://www.youtube.com/watch?v=7xX9uoTjA-E)
 
