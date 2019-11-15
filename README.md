@@ -6,7 +6,7 @@ This portfolio contains a sample of my work with programs such as ArcGIS Pro and
 
 ### Contact
 
-Email: Rhodes.355@osu.edu
+Email: RhodesC.355@gmail.com
 
 # Projects
 
